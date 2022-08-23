@@ -8,7 +8,7 @@
 [![Maintenance](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 
-This is a dummy web application that interact with the [account-engine service](https://github.com/princebayan/account-engine)
+This is a dummy web application that interacts with the [account-engine service](https://github.com/princebayan/account-engine)
 
 
 ## Running the application locally
